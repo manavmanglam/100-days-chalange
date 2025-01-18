@@ -1,4 +1,4 @@
-
+6i_function without argument without return 
 #include <stdio.h>
 
 void displayMessage() {
