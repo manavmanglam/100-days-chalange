@@ -1,4 +1,4 @@
-
+56_matrix multiplication 
 #include <stdio.h>
 
 void multiplyMatrices(int first[3][3], int second[3][3], int result[3][3]) {
