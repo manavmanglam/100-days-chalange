@@ -1,4 +1,4 @@
-
+76_fabbonic series
 #include <stdio.h>
 
 void fibonacci(int n, int a, int b) {
