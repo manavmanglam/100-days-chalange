@@ -1,4 +1,4 @@
-
+53
 #include <stdio.h>
 
 void sumNonDiagonal(int matrix[3][3]) {
