@@ -1,4 +1,4 @@
-
+74_array pased by reference 
 #include <stdio.h>
 
 void modifyArray(int arr[], int size) {
