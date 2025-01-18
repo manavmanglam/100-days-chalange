@@ -1,4 +1,4 @@
-
+57
 #include <stdio.h>
 
 void transposeMatrix(int matrix[3][3], int transpose[3][3]) {
