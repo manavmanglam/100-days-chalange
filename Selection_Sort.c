@@ -1,4 +1,4 @@
-
+64 selection sort 
 #include <stdio.h>
 
 void selectionSort(int arr[], int size) {
