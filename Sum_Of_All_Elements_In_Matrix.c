@@ -1,4 +1,4 @@
-51
+51Sum_Of_All_Elements_In_Matrix
 #include <stdio.h>
 
 void sumMatrix(int matrix[3][3]) {
