@@ -1,4 +1,4 @@
-
+52
 #include <stdio.h>
 
 void sumDiagonal(int matrix[3][3]) {
