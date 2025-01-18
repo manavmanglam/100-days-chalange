@@ -1,4 +1,4 @@
-
+71_ function with argument with return 
 #include <stdio.h>
 
 int add(int a, int b) {
