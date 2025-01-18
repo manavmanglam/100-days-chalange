@@ -1,4 +1,4 @@
-60_revese element of 2d array
+.60_revese element of 2d array
 #include <stdio.h>
 
 void reverseArray(int arr[3][3]) {
