@@ -1,4 +1,4 @@
-
+51
 #include <stdio.h>
 
 void sumMatrix(int matrix[3][3]) {
