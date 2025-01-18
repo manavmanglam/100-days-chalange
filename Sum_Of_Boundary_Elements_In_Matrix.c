@@ -1,4 +1,4 @@
-
+54_ sum of boundary elements matrix 
 #include <stdio.h>
 
 void sumBoundary(int matrix[3][3]) {
